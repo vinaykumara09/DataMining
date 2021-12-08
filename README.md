@@ -15,3 +15,11 @@ How to use:
 4. Click on run all button to execute the notebook
 5. You can see the different accuracies and their comparisons
 
+Project:
+https://vinayanant.wixsite.com/home/project
+
+Blog:
+https://vinayanant.wixsite.com/home/post/building-a-fake-news-classifier
+
+Project video:
+https://www.youtube.com/watch?v=I1yIwL09EWU
